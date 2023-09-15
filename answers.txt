@@ -1,2 +1,2 @@
 What is a remote repository?
-A remote repository is used to store the code and changes between various collaborators.
+A remote repository is used to store the code and changes between various collaborators
